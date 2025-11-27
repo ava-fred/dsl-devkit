@@ -19,9 +19,9 @@
       <url>${testReleaseRepoUrl}</url>
     </repository>
     <snapshotRepository>
-      <id>${testSnapshotRepoId}</id>
-      <name>${testSnapshotRepoName}</name>
-      <url>${testSnapshotRepoUrl}</url>
+      <id>${testReleaseRepoId}</id>
+      <name>${testReleaseRepoName}</name>
+      <url>${testReleaseRepoUrl}</url>
     </snapshotRepository>
   </distributionManagement>
 
